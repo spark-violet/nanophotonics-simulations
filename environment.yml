@@ -1,0 +1,13 @@
+name: flat-optics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pymeep=1.35
+  - numpy
+  - scipy
+  - matplotlib
+  - pip
+  - pip:
+      - grcwa==0.1.2
+      - gdsfactory==9.45.0
