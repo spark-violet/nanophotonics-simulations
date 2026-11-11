@@ -1,0 +1,3 @@
+height_um=0.650
+period_um=0.400
+fom=0.9834

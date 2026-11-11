@@ -10,4 +10,5 @@ dependencies:
   - pip
   - pip:
       - grcwa==0.1.2
+      - autograd==1.9.1
       - gdsfactory==9.45.0
