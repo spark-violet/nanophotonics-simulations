@@ -1,4 +1,4 @@
-name: flat-optics
+name: nanophotonics-simulations
 channels:
   - conda-forge
 dependencies:

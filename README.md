@@ -1,4 +1,4 @@
-# Flat optics portfolio: FDTD, RCWA and GDS
+# Nanophotonics simulations: FDTD, RCWA and GDS
 
 Two small, fully reproducible projects that take thin-film photonics, the topic of my PhD, towards metasurface design.
 
@@ -22,7 +22,7 @@ Each project checks itself against a method it should agree with exactly:
 ```bash
 # Meep is distributed through conda-forge
 conda env create -f environment.yml
-conda activate flat-optics
+conda activate nanophotonics-simulations
 ./run_all.sh            # about 3 minutes on a laptop
 ```
 
